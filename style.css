@@ -1,0 +1,30 @@
+body{
+    background-color: orange;
+}
+
+.head{
+    color: darkblue;
+}
+
+#bglime{
+    background-color: lime;
+}
+
+p{
+    color: white;
+}
+
+#para{
+    color: green;
+}
+span{
+    color: black;
+    font-size: large;
+}
+
+
+
+a{
+    color: blue;
+    background-color: yellow;
+}
